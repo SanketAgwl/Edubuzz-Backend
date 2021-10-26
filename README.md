@@ -12,7 +12,7 @@ You can make your custom flowcharts by going on the Flowcharts page and customis
 
 -   **[Ayush Dhoot](https://github.com/LoLZeS666)**
 -   **[Ayush Shukla](https://github.com/Ayush-Shukla02)**
--   **[Sanket Agarwal](https://github.com/SanketAgwl)**
+-   **[Sanket Agarwal](https://github.com/SanketAgwl)** Backend and Database
 -   **[Shruti Sharma](https://github.com/ShrutiSharma01)**
 -   **[Utkarsh Choubey](https://github.com/utk2541)**
 
